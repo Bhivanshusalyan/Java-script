@@ -15,10 +15,3 @@ console.log(undefined >= 0);
 
 //  Strict check ===
 
-
-
-
-
-
-
-
