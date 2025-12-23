@@ -32,11 +32,3 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('bhivan'));
 
 console.log(gameName.split('-'));
-
-
-
-
-
-
-
-
